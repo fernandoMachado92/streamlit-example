@@ -5,7 +5,15 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to Streamlit | Hackaton iFood!
+# Hackaton iFood | equipe-008
+
+###Membros:
+- @caroline.gugliotti
+- @paulo.nakanishi
+- @paula.roque
+- @rodolfo.almeida
+- @gabriela.xavier
+- @fernando.machado
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 
